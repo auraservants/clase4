@@ -1,1 +1,2 @@
 un arbol es una planta
+un conjunto de arboles es una arboleda
